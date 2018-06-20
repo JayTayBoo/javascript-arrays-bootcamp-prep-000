@@ -29,3 +29,7 @@ function destructivelyRemoveElementFromEndOfArray(a){
   a.pop()
   return a
 }
+function removeElementFromEndOfArray(a){
+  var A = a.pop()
+  return A
+}
