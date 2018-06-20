@@ -25,3 +25,4 @@ function removeElementFromBeginningOfArray(a){
  var A = a.slice(1)
  return A
 }
+function 
