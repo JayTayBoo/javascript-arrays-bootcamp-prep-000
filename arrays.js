@@ -33,3 +33,5 @@ function removeElementFromEndOfArray(a){
   var A = a.slice(0, a.length - 1)
   return A
  }
+ 
+ // YEET
