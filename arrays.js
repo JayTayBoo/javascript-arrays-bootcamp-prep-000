@@ -30,5 +30,5 @@ function destructivelyRemoveElementFromEndOfArray(a){
   return a
 }
 function removeElementFromEndOfArray(a){
-  var A = a.pop()
+  a.pop(0, a.length - 1)
  }
